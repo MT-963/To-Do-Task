@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150347777938",
+    "project_id": "tasktodo-3d1d4",
+    "storage_bucket": "tasktodo-3d1d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150347777938:android:2748d7fef3682f708b634b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZQDvqtS4Q00Yodb4pMR9tG3R1r4SMGZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
